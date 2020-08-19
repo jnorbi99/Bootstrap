@@ -1,7 +1,9 @@
-commitok listája: gi log --oneline
+online repo hozzáadása: git remote add origin <repository URL>
+commitok listája: git log --oneline
 git státusz: git status
 addolás: git add .
 commitolás: git commit -m "commit neve"
 pusholás: git push -u origin master
+clone-ozás: git clone <repository URL>
 
 lite server indítása: npm start
