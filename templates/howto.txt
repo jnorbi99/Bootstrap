@@ -1,5 +1,0 @@
-commitok listája: gi log --oneline
-git státusz: git status
-pusholás: git add .
-
-lite server indítása: npm start
